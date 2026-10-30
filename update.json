@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "6.5",
-  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.5/GitHubManagerPro-6.5.apk",
-  "sha256": "2de498512afa970b9718ceae8cc08701ffcc78ce4f3f3d27af422db4c293d072",
-  "notes": "Mejora la navegación con el botón Atrás, añade búsqueda automática silenciosa de actualizaciones y muestra el historial de cambios al abrir una versión nueva."
+  "versionCode": 58,
+  "versionName": "6.7",
+  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.7/GitHubManagerPro-6.7.apk",
+  "sha256": "14db2ec8e5db017d963c644e8f3f9f64542ae511cac4f773b494a6b71afd80a5",
+  "notes": "Corrige el botón Atrás: vuelve a la pantalla anterior y, al llegar a Inicio, permite salir con confirmación opcional."
 }
