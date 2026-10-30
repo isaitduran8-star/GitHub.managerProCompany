@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "6.3",
-  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.3/GitHubManagerPro-6.3.apk",
-  "sha256": "10365dc080b04ff77a802f07a5fa14d2a69c97d7076f2a69012fafc89ee0620a",
-  "notes": "Permite editar lanzamientos y administrar sus archivos adjuntos."
+  "versionCode": 56,
+  "versionName": "6.5",
+  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.5/GitHubManagerPro-6.5.apk",
+  "sha256": "2de498512afa970b9718ceae8cc08701ffcc78ce4f3f3d27af422db4c293d072",
+  "notes": "Mejora la navegación con el botón Atrás, añade búsqueda automática silenciosa de actualizaciones y muestra el historial de cambios al abrir una versión nueva."
 }
