@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "6.8",
-  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.8/GitHubManagerPro-6.8.apk",
-  "sha256": "8088da5208232ec49380479651350c6ad98d7ac6f95c5cb15acc3eb536a191d8",
-  "notes": "Versión 6.8: búsqueda global de issues y pull requests con consultas guardadas; consulta de GitHub Projects y equipos; revisión de protección de ramas; selección de método merge, squash o rebase; copias locales cifradas para consulta sin conexión; y administración de varias cuentas GitHub. Las funciones dependen de los permisos que GitHub conceda al token y a la cuenta."
+  "versionCode": 62,
+  "versionName": "6.11",
+  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.11/GitHubManagerPro-6.11.apk",
+  "sha256": "47a57d8d9a3130645b5f0a7450724891a43dcb21cc4648968c2e7b9a88818ad3",
+  "notes": "Versión 6.11: revisión orientativa de checks, mergeable y aprobaciones antes de fusionar un PR; alertas y ubicaciones de Secret Scanning sin exponer el valor del secreto. Conserva las opciones de 6.10. Las funciones dependen de permisos y configuración de GitHub; las reglas del repositorio siguen siendo definitivas."
 }
