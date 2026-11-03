@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "6.20",
-  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.20/GitHubManagerPro-6.20.apk",
-  "sha256": "e00f374401041fdc66b30b4ef50c02f62734db023758056070c8c0417c73510e",
-  "notes": "Los enlaces de redes sociales ahora están agrupados en Acerca de, en vez de aparecer como botones separados en Configuración. Se conserva el historial de cambios recientes."
+  "versionCode": 73,
+  "versionName": "6.22",
+  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.22/GitHubManagerPro-6.22.apk",
+  "sha256": "3b7863c97bb1484b1a54c49efccf0f2b2eb22338f0e95e8dc9469671922c965f",
+  "notes": "Se corrigió Configuración: ahora el bloque de opciones aparece dentro de la pantalla desplazable y se restauraron las acciones de sus botones. Historial acumulado: 6.21 Configuración desplazable; 6.20 enlaces sociales en Acerca de; 6.19 enlaces sociales con nombres; 6.18 favoritos, búsquedas guardadas y respaldo de preferencias sin tokens."
 }
