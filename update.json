@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "6.11",
-  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.11/GitHubManagerPro-6.11.apk",
-  "sha256": "47a57d8d9a3130645b5f0a7450724891a43dcb21cc4648968c2e7b9a88818ad3",
-  "notes": "Versión 6.11: revisión orientativa de checks, mergeable y aprobaciones antes de fusionar un PR; alertas y ubicaciones de Secret Scanning sin exponer el valor del secreto. Conserva las opciones de 6.10. Las funciones dependen de permisos y configuración de GitHub; las reglas del repositorio siguen siendo definitivas."
+  "versionCode": 71,
+  "versionName": "6.20",
+  "apkUrl": "https://github.com/isaitduran8-star/GitHub.managerProCompany/releases/download/6.20/GitHubManagerPro-6.20.apk",
+  "sha256": "e00f374401041fdc66b30b4ef50c02f62734db023758056070c8c0417c73510e",
+  "notes": "Los enlaces de redes sociales ahora están agrupados en Acerca de, en vez de aparecer como botones separados en Configuración. Se conserva el historial de cambios recientes."
 }
